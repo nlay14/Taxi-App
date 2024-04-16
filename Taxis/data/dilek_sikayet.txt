@@ -1,0 +1,4 @@
+
+TAKSİ: 42YCA22 {Güney Taksi Durağı} {İlayda Ezgi} {Bakımı Yapılmadı} {Taksi Dolu} {Taksici yalnızca Türkçe biliyor} {Engelli desteği var} {Maksimum 4 kişilik} Nakit {Yakın Mesafe}
+GERİ BİLDİRİM: Bir önceki dilek ve sikayetler butonunda yazdirilan tüm mesajlar bu butonda görüntüleniyor.Data dosyasý içerisindeki bir text dosyasina kaydediliyor.
+------------------------------
